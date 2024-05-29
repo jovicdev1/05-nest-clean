@@ -6,9 +6,9 @@ POST {{baseUrl}}/accounts
 Content-Type: application/json
 
 {
-    "name": "Otavio Pinto",
-    "email": "otaviopinto2@email.com",
-    "password": "123456"
+    "name": "Otavio Costa",
+    "email": "otaviodick2@email.com",
+    "password": "pinto123456pinto"
 }
 
 ###
@@ -19,7 +19,7 @@ Content-Type: application/json
 
 {
     "email": "paulotouret@email.com",
-    "password": "123456"
+    "password": "dick123456dick"
 }
 
 ###
